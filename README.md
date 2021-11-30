@@ -43,10 +43,10 @@
 ## Connect with me  
 
 
-<a href="https://github.com/https://github.com/ppjh8263" target="_blank">
+<a href="https://github.com/ppjh8263" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/p.real_bro/" target="_blank">
+<a href="https://instagram.com/p.real_bro/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -57,8 +57,8 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppjh8263&hide_border=true&layout=compact" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=ppjh8263&show_icons=true&count_private=true&hide_border=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppjh8263&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ppjh8263&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 50%"/>
 
  
 <!-- <br/>
