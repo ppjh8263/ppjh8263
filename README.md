@@ -35,3 +35,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zssssa36@gmail.com)](mailto:zssssa36@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/ppjh8263)](https://github.com/ppjh8263) 
  </div>
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppjh8263&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
