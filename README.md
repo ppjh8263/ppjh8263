@@ -46,9 +46,11 @@
 <div align=left>
  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zssssa36@gmail.com)](mailto:zssssa36@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/p.real_bro/)](https://www.instagram.com/p.real_bro/) 
 [![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/ppjh8263)](https://github.com/ppjh8263) 
  </div>
+ 
+ 
+<!--  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/p.real_bro/)](https://www.instagram.com/p.real_bro/)  -->
 <!-- 
 <a href="https://github.com/ppjh8263" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
