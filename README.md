@@ -35,6 +35,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
 </div>
 
+<div align=left>
+ 
+[![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/p.real_bro/)](https://www.instagram.com/p.real_bro/) 
+[![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/ppjh8263)](https://github.com/ppjh8263) 
+ </div>
 
 
 <br/>  
