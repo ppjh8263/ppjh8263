@@ -23,9 +23,9 @@
 
 ## Skills
 
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -41,8 +41,6 @@
 
 
 ## Connect with me  
-
-<table><tr><td valign="top" width="50%">
 
 
 <a href="https://github.com/https://github.com/ppjh8263" target="_blank">
@@ -64,8 +62,6 @@
 
 ## Github Stats  
 
-<table><tr><td valign="top" width="50%">
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=ppjh8263&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -76,7 +72,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 <br />
 
