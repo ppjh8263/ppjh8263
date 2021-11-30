@@ -7,7 +7,7 @@
 
  -->
 
-### <div align="center">I'm jinhyung, who wants to be an MLOps engineer.🚀</div>  
+### <div align="left">I'm jinhyung, who wants to be an MLOps engineer.🚀</div>  
 
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
