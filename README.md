@@ -7,7 +7,7 @@
 
  -->
 
-### <div align="center">I'm jinhyung, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm jinhyung, who wants to be an MLOps engineer.🚀</div>  
 
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
