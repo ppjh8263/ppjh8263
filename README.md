@@ -1,5 +1,6 @@
 ### <div align="left">I'm jinhyung, who wants to be a MLOps engineer.🚀</div>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppjh8263&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 
