@@ -1,6 +1,6 @@
 ### <div align="left">I'm jinhyung, who wants to be a MLOps engineer.🚀</div> 
 ### <div align="left">👇 My Portfolio Click here
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](www.realbro.site/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](http://www.realbro.site/portfolio/)
 
 
 </div>
