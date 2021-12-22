@@ -1,5 +1,8 @@
-### <div align="left">I'm jinhyung, who wants to be a MLOps engineer.🚀</div> 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&link=https://www.realbro.site/portfolio/)]
+### <div align="left">
+I'm jinhyung, who wants to be a MLOps engineer.🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&link=https://www.realbro.site/portfolio/)](https://www.realbro.site/portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zssssa36@gmail.com)](mailto:zssssa36@gmail.com)
+</div> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppjh8263&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
