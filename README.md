@@ -1,6 +1,6 @@
 ### <div align="left">I'm jinhyung, who wants to be a MLOps engineer.🚀</div> 
-### <div align="left">👇 My Portfolio Click here
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](http://www.realbro.site/portfolio/)
+<!-- ### <div align="left">👇 My Portfolio Click here -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](http://www.realbro.site/portfolio/) -->
 
 
 </div>
@@ -34,7 +34,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
  </div>
 
-## Connect with me  
+## Connect with me  \
 <div align=left>
  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zssssa36@gmail.com)](mailto:zssssa36@gmail.com)
